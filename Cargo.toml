@@ -23,7 +23,7 @@ solana-measure = "=1.8.14"
 solana-metrics = "=1.8.14"
 solana-runtime = "=1.8.14"
 solana-sdk = "=1.8.14"
-solana_rbpf = { git = "https://github.com/jawilk/rbpf" branch = "debug_support" }
+solana_rbpf = { git = "https://github.com/jawilk/rbpf", branch = "debug_support" }
 thiserror = "1.0"
 programs-to-debug-thread-local = { git = "https://github.com/jawilk/programs-to-debug-thread-local" }
 
